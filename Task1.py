@@ -23,7 +23,7 @@ def binarySort(arr, num):
     if left <= right:
         return center
     else:
-        return -1
+        return None
 
 
 def main():
